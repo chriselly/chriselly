@@ -25,23 +25,14 @@
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 <h2 align="center">Contact Me</h2>
-<div class="row">
-  <div class="col-md-2 col-md-push-1" style="display:flex; align-items: center; justify-content: center;" >
-    <a class="twitter" href="https://twitter.com/chris_elly">
-      <figure>
-        <img class="img-circle" style="width: 40px;height:40px;border-radius: 50%; margin-right: 20px;vertical-align: middle;border:0;" src="https://chriselly.net/images/twitter.png">Twitter
-      </figure>
-    </a>
-      <a class="facebook" href="https://www.facebook.com/chris.elly0">
-        <figure>
-          <img class="img-circle" style="width: 40px;height:40px;border-radius: 50%; margin-right: 20px;vertical-align: middle;border:0;" src="https://chriselly.net/images/facebook.png">Facebook
-        </figure>
-      </a>
-    <a class="linkedin" href="http://www.linkedin.com/pub/chris-elly/73/106/677">
-      <figure>
-        <img class="img-circle" style="width: 40px;height:40px;border-radius: 50%;  margin-right: 20px;vertical-align: middle;border:0;" src="https://chriselly.net/images/linkedin.png">LinkedIn
-      </figure>
-    </a>
-  </div>
-</div>
+<p align="center">
+<a href="https://twitter.com/chris_elly">
+  <img alt="Twitter" src="https://img.shields.io/badge/chriselly-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+</a> 
+<a href="https://www.facebook.com/chris.elly0">
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+</a>
+<a href="http://www.linkedin.com/pub/chris-elly/73/106/677">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
