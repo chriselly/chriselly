@@ -27,7 +27,7 @@
 <h2 align="center">Contact Me</h2>
 <p align="center">
 <a href="https://twitter.com/chris_elly">
-  <img alt="Twitter" src="https://img.shields.io/badge/chriselly-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img alt="Twitter" src="https://img.shields.io/badge/chris_elly-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a> 
 <a href="https://www.facebook.com/chris.elly0">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
