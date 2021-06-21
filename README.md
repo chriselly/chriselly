@@ -12,6 +12,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img alt="React" src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white"/>
 <img alt="Next JS" src="https://img.shields.io/badge/nextjs-%23000000.svg?style=flat-square&logo=next.js&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
 <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -19,7 +20,6 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img alt="Github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
